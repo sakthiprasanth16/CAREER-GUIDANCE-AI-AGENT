@@ -46,13 +46,6 @@ Career Guidance AI Agent is an intelligent chatbot powered by Google's Gemini 2.
 Try the live application here:
 ### 🔗 **[https://huggingface.co/spaces/prasanthr0416/CAREER_GUIDANCE_AI_AGENT](https://huggingface.co/spaces/prasanthr0416/CAREER_GUIDANCE_AI_AGENT)**
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Chat+Interface+Screenshot" alt="Chat Interface" width="80%">
-  <p><em>Main chat interface with status badges and quick action buttons</em></p>
-</div>
-
 ## 🛠️ Technology Stack
 
 - **Frontend**: Streamlit
