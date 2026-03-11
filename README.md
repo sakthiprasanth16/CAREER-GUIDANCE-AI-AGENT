@@ -5,8 +5,7 @@
   ![Career Guidance AI](https://img.shields.io/badge/AI-Career%20Guidance-blue)
   ![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-FF4B4B)
   ![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-8E75B2)
-  ![License](https://img.shields.io/badge/License-MIT-green)
-  
+ 
   ### Your Personal AI Career Counselor 🤖
   
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/prasanthr0416/CAREER_GUIDANCE_AI_AGENT)
