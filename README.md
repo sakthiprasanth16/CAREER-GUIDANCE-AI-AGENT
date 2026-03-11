@@ -17,7 +17,7 @@
 
 ## 📋 Overview
 
-Career Guidance AI Agent is an intelligent chatbot powered by Google's Gemini 2.5 Flash model that provides personalized career counseling. It helps users get detailed information about any career path including required skills, education, responsibilities, interview preparation, learning resources, and salary expectations in Indian Rupees (INR).
+Career Guidance AI Agent is an intelligent chatbot powered by Google's Gemini 2.5 Flash model that provides personalized career counseling. It helps users get detailed information about any career path including required skills, education, responsibilities, interview preparation, learning resources, and salary expectations.
 
 ## ✨ Features
 
@@ -39,7 +39,7 @@ Career Guidance AI Agent is an intelligent chatbot powered by Google's Gemini 2.
 | 💼 **Key Responsibilities** | Daily tasks, role explanation, typical day activities |
 | 🎯 **Interview Guide** | 5-step complete interview preparation |
 | 📖 **Learning Resources** | Best courses, books, practice platforms |
-| 💰 **Salary (INR)** | Entry, Mid, Senior level ranges for Indian market |
+| 💰 **Salary** | Entry, Mid, Senior level ranges for Indian market |
 
 ## 🚀 Live Demo
 
