@@ -141,6 +141,48 @@ header {visibility: hidden;}
 }
 
 /* ============================= */
+/* FIX NEW CONVERSATION BUTTON  */
+/* ============================= */
+
+/* Target the button container */
+[data-testid="stSidebar"] .stButton {
+    display: block !important;
+}
+
+/* Target the button element directly */
+[data-testid="stSidebar"] .stButton button {
+    color: #000000 !important;
+    background-color: #ffffff !important;
+    border: 1px solid #cccccc !important;
+    font-weight: 500 !important;
+}
+
+/* Target any paragraph or text inside the button */
+[data-testid="stSidebar"] .stButton button p {
+    color: #000000 !important;
+}
+
+/* Target any span inside the button */
+[data-testid="stSidebar"] .stButton button span {
+    color: #000000 !important;
+}
+
+/* Target when button is not hovered, not focused, etc. */
+[data-testid="stSidebar"] .stButton button:not(:hover):not(:focus) {
+    color: #000000 !important;
+    background-color: #ffffff !important;
+}
+
+/* Hover state - optional */
+[data-testid="stSidebar"] .stButton button:hover {
+    color: #ffffff !important;
+    background-color: #2563eb !important;
+    border-color: #2563eb !important;
+}
+
+
+
+/* ============================= */
 /* CHAT */
 /* ============================= */
 
